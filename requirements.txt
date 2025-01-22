@@ -2,3 +2,4 @@ huggingface_hub
 google-generativeai
 Pillow
 python-dotenv
+fuzzywuzzy
